@@ -1,0 +1,4 @@
+1 - compile os arquivos Controler.cs, View.cs, CalculadoraDeImcMVC.cs, CalculadorDeIMC.cs
+2 - execute o arquivo .exe criado
+3 - insira peso e altura na parte mencionada
+4 - clique calcular
